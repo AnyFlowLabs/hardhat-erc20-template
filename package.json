@@ -1,0 +1,32 @@
+{
+  "name": "anyflow-demo-hello-world",
+  "engines": {
+    "node": "^20"
+  },
+  "scripts": {
+    "compile": "hardhat compile",
+    "deploy": "hardhat run ./scripts/deploy.ts"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-ignition": "^0.15.1",
+    "@nomicfoundation/hardhat-ignition-viem": "^0.15.1",
+    "@nomicfoundation/hardhat-network-helpers": "^1.0.0",
+    "@nomicfoundation/hardhat-toolbox-viem": "^3.0.0",
+    "@nomicfoundation/hardhat-verify": "^2.0.6",
+    "@nomicfoundation/hardhat-viem": "^2.0.1",
+    "@nomicfoundation/ignition-core": "^0.15.1",
+    "@types/chai": "^4.2.0",
+    "@types/chai-as-promised": "^7.1.6",
+    "@types/mocha": ">=9.1.0",
+    "chai": "^4.2.0",
+    "hardhat": "^2.22.3",
+    "hardhat-gas-reporter": "^1.0.8",
+    "solidity-coverage": "^0.8.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5",
+    "viem": "^2.9.26"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.2"
+  }
+}
