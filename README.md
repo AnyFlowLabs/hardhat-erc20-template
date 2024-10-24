@@ -5,7 +5,7 @@
 
 # AnyFlow ERC20 Template
 
-This is a template for creating an ERC20 token using AnyFlow. The platform will automatically deploy the contract on the selected chains and verify it on the selected block explorers.
+This is a template for creating an ERC20 token using AnyFlow. The platform will automatically deploy the contract on the selected chains and verify it on the selected block explorers. It is free to use on testnets.
 
 # Usage
 
