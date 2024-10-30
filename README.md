@@ -3,14 +3,14 @@
   <img src="./img/logo1.png" style="max-width: 100%;" height="300"/>
 </p>
 
-# AnyFlow ERC20 Template
+# AnyFlow ERC721 Template
 
-This is a template for creating an ERC20 token using AnyFlow. The platform will automatically deploy the contract on the selected chains and verify it on the selected block explorers. It is free to use on testnets.
+This is a template for creating an ERC721 token using AnyFlow. The platform will automatically deploy the contract on the selected chains and verify it on the selected block explorers. It is free to use on testnets.
 
 # Usage
 
 1. Fork this repository
-2. Customize your ERC20 token by editing the `contracts/AnyFlowERC20.sol` and `scripts/deploy.ts` files
+2. Customize your ERC721 token by editing the `contracts/AnyFlowERC721.sol` and `scripts/deploy.ts` files
 3. Log into [AnyFlow](https://app-staging.anyflow.pro)
 4. Select this repository
 5. Select your chains
