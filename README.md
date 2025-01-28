@@ -11,7 +11,7 @@ This is a template for creating an ERC20 token using AnyFlow. The platform will 
 
 1. Fork this repository
 2. Customize your ERC20 token by editing the `contracts/AnyFlowERC20.sol` and `scripts/deploy.ts` files
-3. Log into [AnyFlow](https://app-staging.anyflow.pro)
+3. Log into [AnyFlow](https://app.anyflow.pro)
 4. Select this repository
 5. Select your chains
 6. Just wait for the deployment to finish
